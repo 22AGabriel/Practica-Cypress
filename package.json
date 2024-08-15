@@ -1,0 +1,14 @@
+{
+  "name": "1---pruebas-cypress",
+  "version": "1.0.0",
+  "description": "cypress, automatizacion, practica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azubel Gabriel",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  }
+}
