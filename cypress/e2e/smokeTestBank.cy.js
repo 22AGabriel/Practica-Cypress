@@ -1,3 +1,4 @@
+/// <reference types="cypress" />
 /* Estructura básica de pruebas 
 
 describe("conjunto de pruebas", () => {
